@@ -232,3 +232,24 @@ http://sourceforge.net/projects/itextsharp/
 
 This is a .NET library for exporting data to a PDF file.
 ===================================================================
+
+===========Suggestions of Bryan Willis==================================
+
+During our class meetings it has been announced that we will be using JUnit for unit testing thoughout this semester. I used the following three videos to intrduce me to this unit testing framework.
+
+Intro to JUnit 1 of 3
+https://www.youtube.com/watch?v=KwYWPK6m7oY
+
+Intro to JUnit 2 of 3
+https://www.youtube.com/watch?v=I2aQlEsmAlY
+
+Intro to JUnit 3 of 3 
+https://www.youtube.com/watch?v=quTuT9fPWpY
+
+I was also looking around online for infromation regarding git and github when i came across a great guide for beginners. I think this article will be useful for anyone struggling with the concepts of git and github.
+
+Link: https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+===============================================================================
+
+ 
